@@ -26,4 +26,4 @@ python train.py --data CIFAR10 \
 - --thres: Threshold for distinguish semantic and nuisance region by CAM.
 - --scale: Adjust magnitude for FGSM-like virtual outlier generation.
 
-![Framework](./fig/Query%20set.png)
+![Framework](./fig/framework.png)
